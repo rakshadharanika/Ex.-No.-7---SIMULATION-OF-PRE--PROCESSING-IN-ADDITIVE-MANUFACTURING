@@ -44,11 +44,7 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
-![Screenshot (20)](https://github.com/rakshadharanika/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/149348380/2852fc63-64d8-4094-8a9b-becf9c2a981c)
-![Screenshot (21)](https://github.com/rakshadharanika/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/149348380/8f8e2158-0702-4c8e-b59f-6b032e700dc8)
-![Screenshot (22)](https://github.com/rakshadharanika/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/149348380/7bcf48dd-b6ed-4583-9e2b-f8bd21da267e)
-![Screenshot (23)](https://github.com/rakshadharanika/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/149348380/3a850ff0-6ac8-463c-b990-47b61e759070)
-![Screenshot (24)](https://github.com/rakshadharanika/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/149348380/f8350789-bd96-4f54-a1f8-3a6c13ab96de)
+
 ![Screenshot (25)](https://github.com/rakshadharanika/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/149348380/1b07ee0f-c986-4b02-bab3-74cc6a4ec89d)
 
 ### Name:V Raksha dharanika
